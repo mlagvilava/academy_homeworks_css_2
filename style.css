@@ -1,3 +1,5 @@
 body {
     background-image: url(foni1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
